@@ -13,6 +13,7 @@
 ## String
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/jusst-ronnie/Leetcode/tree/master/0071-simplify-path) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/jusst-ronnie/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Recursion
 |  |
@@ -30,4 +31,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/jusst-ronnie/Leetcode/tree/master/0070-climbing-stairs) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/jusst-ronnie/Leetcode/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
