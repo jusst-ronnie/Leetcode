@@ -43,6 +43,7 @@
 ## Array
 |  |
 | ------- |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/jusst-ronnie/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2399-check-distances-between-same-letters](https://github.com/jusst-ronnie/Leetcode/tree/master/2399-check-distances-between-same-letters) |
 | [2401-longest-nice-subarray](https://github.com/jusst-ronnie/Leetcode/tree/master/2401-longest-nice-subarray) |
 ## Hash Table
@@ -61,4 +62,8 @@
 |  |
 | ------- |
 | [2401-longest-nice-subarray](https://github.com/jusst-ronnie/Leetcode/tree/master/2401-longest-nice-subarray) |
+## Matrix
+|  |
+| ------- |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/jusst-ronnie/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 <!---LeetCode Topics End-->
