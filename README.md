@@ -17,6 +17,7 @@
 | [0071-simplify-path](https://github.com/jusst-ronnie/Leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/jusst-ronnie/Leetcode/tree/master/0072-edit-distance) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/jusst-ronnie/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/jusst-ronnie/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2399-check-distances-between-same-letters](https://github.com/jusst-ronnie/Leetcode/tree/master/2399-check-distances-between-same-letters) |
 ## Recursion
 |  |
@@ -72,4 +73,5 @@
 |  |
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/jusst-ronnie/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/jusst-ronnie/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 <!---LeetCode Topics End-->
