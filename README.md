@@ -137,4 +137,8 @@
 |  |
 | ------- |
 | [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/jusst-ronnie/Leetcode/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/jusst-ronnie/Leetcode/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
