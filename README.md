@@ -58,6 +58,7 @@
 | [0073-set-matrix-zeroes](https://github.com/jusst-ronnie/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/jusst-ronnie/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/jusst-ronnie/Leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/jusst-ronnie/Leetcode/tree/master/0078-subsets) |
 | [1488-avoid-flood-in-the-city](https://github.com/jusst-ronnie/Leetcode/tree/master/1488-avoid-flood-in-the-city) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/jusst-ronnie/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/jusst-ronnie/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -87,6 +88,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/jusst-ronnie/Leetcode/tree/master/0078-subsets) |
 | [2401-longest-nice-subarray](https://github.com/jusst-ronnie/Leetcode/tree/master/2401-longest-nice-subarray) |
 | [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/jusst-ronnie/Leetcode/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
 ## Sliding Window
@@ -141,4 +143,5 @@
 |  |
 | ------- |
 | [0077-combinations](https://github.com/jusst-ronnie/Leetcode/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/jusst-ronnie/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
