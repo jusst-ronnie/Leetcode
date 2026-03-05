@@ -54,6 +54,7 @@
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/jusst-ronnie/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2399-check-distances-between-same-letters](https://github.com/jusst-ronnie/Leetcode/tree/master/2399-check-distances-between-same-letters) |
 | [2401-longest-nice-subarray](https://github.com/jusst-ronnie/Leetcode/tree/master/2401-longest-nice-subarray) |
+| [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/jusst-ronnie/Leetcode/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/jusst-ronnie/Leetcode/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Hash Table
 |  |
@@ -98,5 +99,6 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/jusst-ronnie/Leetcode/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/jusst-ronnie/Leetcode/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
 <!---LeetCode Topics End-->
