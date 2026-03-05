@@ -13,6 +13,7 @@
 | [0069-sqrtx](https://github.com/jusst-ronnie/Leetcode/tree/master/0069-sqrtx) |
 | [1488-avoid-flood-in-the-city](https://github.com/jusst-ronnie/Leetcode/tree/master/1488-avoid-flood-in-the-city) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/jusst-ronnie/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/jusst-ronnie/Leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## String
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 | [0070-climbing-stairs](https://github.com/jusst-ronnie/Leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/jusst-ronnie/Leetcode/tree/master/0072-edit-distance) |
 | [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/jusst-ronnie/Leetcode/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/jusst-ronnie/Leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Memoization
 |  |
 | ------- |
@@ -55,12 +57,14 @@
 | [2399-check-distances-between-same-letters](https://github.com/jusst-ronnie/Leetcode/tree/master/2399-check-distances-between-same-letters) |
 | [2401-longest-nice-subarray](https://github.com/jusst-ronnie/Leetcode/tree/master/2401-longest-nice-subarray) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/jusst-ronnie/Leetcode/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/jusst-ronnie/Leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/jusst-ronnie/Leetcode/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Hash Table
 |  |
 | ------- |
 | [1488-avoid-flood-in-the-city](https://github.com/jusst-ronnie/Leetcode/tree/master/1488-avoid-flood-in-the-city) |
 | [2399-check-distances-between-same-letters](https://github.com/jusst-ronnie/Leetcode/tree/master/2399-check-distances-between-same-letters) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/jusst-ronnie/Leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Combinatorics
 |  |
 | ------- |
@@ -92,13 +96,19 @@
 |  |
 | ------- |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/jusst-ronnie/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/jusst-ronnie/Leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Sorting
 |  |
 | ------- |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/jusst-ronnie/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/jusst-ronnie/Leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Prefix Sum
 |  |
 | ------- |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/jusst-ronnie/Leetcode/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/jusst-ronnie/Leetcode/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
+## Counting
+|  |
+| ------- |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/jusst-ronnie/Leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 <!---LeetCode Topics End-->
