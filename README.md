@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/jusst-ronnie/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/jusst-ronnie/Leetcode/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -53,6 +54,7 @@
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/jusst-ronnie/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2399-check-distances-between-same-letters](https://github.com/jusst-ronnie/Leetcode/tree/master/2399-check-distances-between-same-letters) |
 | [2401-longest-nice-subarray](https://github.com/jusst-ronnie/Leetcode/tree/master/2401-longest-nice-subarray) |
+| [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/jusst-ronnie/Leetcode/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Hash Table
 |  |
 | ------- |
@@ -93,4 +95,8 @@
 |  |
 | ------- |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/jusst-ronnie/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
+## Prefix Sum
+|  |
+| ------- |
+| [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/jusst-ronnie/Leetcode/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
 <!---LeetCode Topics End-->
