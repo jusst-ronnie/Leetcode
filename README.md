@@ -12,6 +12,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/jusst-ronnie/Leetcode/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/jusst-ronnie/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1488-avoid-flood-in-the-city](https://github.com/jusst-ronnie/Leetcode/tree/master/1488-avoid-flood-in-the-city) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/jusst-ronnie/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/jusst-ronnie/Leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
@@ -53,6 +54,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/jusst-ronnie/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/jusst-ronnie/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1488-avoid-flood-in-the-city](https://github.com/jusst-ronnie/Leetcode/tree/master/1488-avoid-flood-in-the-city) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/jusst-ronnie/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/jusst-ronnie/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -88,6 +90,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/jusst-ronnie/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/jusst-ronnie/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/jusst-ronnie/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/jusst-ronnie/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Greedy
