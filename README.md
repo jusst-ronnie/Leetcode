@@ -126,6 +126,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/jusst-ronnie/Leetcode/tree/master/0075-sort-colors) |
+| [0086-partition-list](https://github.com/jusst-ronnie/Leetcode/tree/master/0086-partition-list) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/jusst-ronnie/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/jusst-ronnie/Leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Sorting
@@ -157,4 +158,8 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/jusst-ronnie/Leetcode/tree/master/0085-maximal-rectangle) |
+## Linked List
+|  |
+| ------- |
+| [0086-partition-list](https://github.com/jusst-ronnie/Leetcode/tree/master/0086-partition-list) |
 <!---LeetCode Topics End-->
