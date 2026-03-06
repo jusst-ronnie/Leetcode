@@ -1,14 +1,15 @@
 from bisect import bisect_left
+from typing import List
 
 class Solution:
-    def successfulPairs(self, spells, potions, success):
+    def successfulPairs(self, spells: List[int], potions: List[int], success: int) -> List[int]:
         potions.sort()
         m = len(potions)
-        result = []
+        ans = []
 
         for spell in spells:
-            need = (success + spell - 1) // spell   # ceil(success/spell)
-            idx = bisect_left(potions, need)
-            result.append(m - idx)
+            target = (success + spell - 1) // spell
+            idx = bisect_left(potions, target)
+            ans.append(m - idx)
 
-        return result
+        return ans
