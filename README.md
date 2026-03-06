@@ -43,6 +43,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/jusst-ronnie/Leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/jusst-ronnie/Leetcode/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/jusst-ronnie/Leetcode/tree/master/0085-maximal-rectangle) |
 | [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/jusst-ronnie/Leetcode/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/jusst-ronnie/Leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/jusst-ronnie/Leetcode/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
@@ -54,6 +55,7 @@
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/jusst-ronnie/Leetcode/tree/master/0071-simplify-path) |
+| [0085-maximal-rectangle](https://github.com/jusst-ronnie/Leetcode/tree/master/0085-maximal-rectangle) |
 ## Array
 |  |
 | ------- |
@@ -61,6 +63,7 @@
 | [0074-search-a-2d-matrix](https://github.com/jusst-ronnie/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/jusst-ronnie/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/jusst-ronnie/Leetcode/tree/master/0078-subsets) |
+| [0085-maximal-rectangle](https://github.com/jusst-ronnie/Leetcode/tree/master/0085-maximal-rectangle) |
 | [1488-avoid-flood-in-the-city](https://github.com/jusst-ronnie/Leetcode/tree/master/1488-avoid-flood-in-the-city) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/jusst-ronnie/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/jusst-ronnie/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -105,6 +108,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/jusst-ronnie/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/jusst-ronnie/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/jusst-ronnie/Leetcode/tree/master/0085-maximal-rectangle) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/jusst-ronnie/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/jusst-ronnie/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Greedy
@@ -149,4 +153,8 @@
 | ------- |
 | [0077-combinations](https://github.com/jusst-ronnie/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/jusst-ronnie/Leetcode/tree/master/0078-subsets) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/jusst-ronnie/Leetcode/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
