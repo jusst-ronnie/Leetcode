@@ -7,6 +7,7 @@
 | [0069-sqrtx](https://github.com/jusst-ronnie/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/jusst-ronnie/Leetcode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/jusst-ronnie/Leetcode/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/jusst-ronnie/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/jusst-ronnie/Leetcode/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/jusst-ronnie/Leetcode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/jusst-ronnie/Leetcode/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
@@ -52,6 +53,7 @@
 | [0087-scramble-string](https://github.com/jusst-ronnie/Leetcode/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/jusst-ronnie/Leetcode/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/jusst-ronnie/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/jusst-ronnie/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/jusst-ronnie/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/jusst-ronnie/Leetcode/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/jusst-ronnie/Leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
@@ -189,6 +191,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/jusst-ronnie/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/jusst-ronnie/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/jusst-ronnie/Leetcode/tree/master/0096-unique-binary-search-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -198,8 +201,10 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/jusst-ronnie/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/jusst-ronnie/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/jusst-ronnie/Leetcode/tree/master/0096-unique-binary-search-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/jusst-ronnie/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/jusst-ronnie/Leetcode/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
