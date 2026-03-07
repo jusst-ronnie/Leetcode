@@ -6,6 +6,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/jusst-ronnie/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/jusst-ronnie/Leetcode/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/jusst-ronnie/Leetcode/tree/master/0089-gray-code) |
 | [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/jusst-ronnie/Leetcode/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/jusst-ronnie/Leetcode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/jusst-ronnie/Leetcode/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
@@ -101,6 +102,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/jusst-ronnie/Leetcode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/jusst-ronnie/Leetcode/tree/master/0089-gray-code) |
 | [2401-longest-nice-subarray](https://github.com/jusst-ronnie/Leetcode/tree/master/2401-longest-nice-subarray) |
 | [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/jusst-ronnie/Leetcode/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
 ## Sliding Window
@@ -162,6 +164,7 @@
 | ------- |
 | [0077-combinations](https://github.com/jusst-ronnie/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/jusst-ronnie/Leetcode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/jusst-ronnie/Leetcode/tree/master/0089-gray-code) |
 ## Monotonic Stack
 |  |
 | ------- |
