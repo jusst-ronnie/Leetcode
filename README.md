@@ -51,6 +51,7 @@
 | [0085-maximal-rectangle](https://github.com/jusst-ronnie/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/jusst-ronnie/Leetcode/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/jusst-ronnie/Leetcode/tree/master/0091-decode-ways) |
+| [0095-unique-binary-search-trees-ii](https://github.com/jusst-ronnie/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/jusst-ronnie/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/jusst-ronnie/Leetcode/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/jusst-ronnie/Leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
@@ -173,6 +174,7 @@
 | [0089-gray-code](https://github.com/jusst-ronnie/Leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/jusst-ronnie/Leetcode/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/jusst-ronnie/Leetcode/tree/master/0093-restore-ip-addresses) |
+| [0095-unique-binary-search-trees-ii](https://github.com/jusst-ronnie/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -186,6 +188,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/jusst-ronnie/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/jusst-ronnie/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -194,4 +197,9 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/jusst-ronnie/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/jusst-ronnie/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/jusst-ronnie/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
