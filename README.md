@@ -64,6 +64,7 @@
 | ------- |
 | [0071-simplify-path](https://github.com/jusst-ronnie/Leetcode/tree/master/0071-simplify-path) |
 | [0085-maximal-rectangle](https://github.com/jusst-ronnie/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/jusst-ronnie/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 ## Array
 |  |
 | ------- |
@@ -181,4 +182,16 @@
 | ------- |
 | [0086-partition-list](https://github.com/jusst-ronnie/Leetcode/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/jusst-ronnie/Leetcode/tree/master/0092-reverse-linked-list-ii) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/jusst-ronnie/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/jusst-ronnie/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/jusst-ronnie/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
