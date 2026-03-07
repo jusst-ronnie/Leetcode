@@ -25,6 +25,7 @@
 | [0072-edit-distance](https://github.com/jusst-ronnie/Leetcode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/jusst-ronnie/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/jusst-ronnie/Leetcode/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/jusst-ronnie/Leetcode/tree/master/0091-decode-ways) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/jusst-ronnie/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/jusst-ronnie/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/jusst-ronnie/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -48,6 +49,7 @@
 | [0072-edit-distance](https://github.com/jusst-ronnie/Leetcode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/jusst-ronnie/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/jusst-ronnie/Leetcode/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/jusst-ronnie/Leetcode/tree/master/0091-decode-ways) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/jusst-ronnie/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/jusst-ronnie/Leetcode/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/jusst-ronnie/Leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
