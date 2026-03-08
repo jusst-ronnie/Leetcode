@@ -19,6 +19,7 @@
 | [1488-avoid-flood-in-the-city](https://github.com/jusst-ronnie/Leetcode/tree/master/1488-avoid-flood-in-the-city) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/jusst-ronnie/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/jusst-ronnie/Leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
+| [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/jusst-ronnie/Leetcode/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
 ## String
 |  |
 | ------- |
@@ -93,6 +94,7 @@
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/jusst-ronnie/Leetcode/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/jusst-ronnie/Leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/jusst-ronnie/Leetcode/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
+| [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/jusst-ronnie/Leetcode/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
 | [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/jusst-ronnie/Leetcode/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/jusst-ronnie/Leetcode/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
 ## Hash Table
