@@ -3,19 +3,16 @@ class Solution:
         n = len(nums)
 
         for a in range(n - 2*k + 1):
-
+            
             first = True
-            second = True
-
-            # check first subarray
             for i in range(a, a + k - 1):
-                if nums[i] >= nums[i + 1]:
+                if nums[i] >= nums[i+1]:
                     first = False
                     break
 
-            # check second subarray
+            second = True
             for i in range(a + k, a + 2*k - 1):
-                if nums[i] >= nums[i + 1]:
+                if nums[i] >= nums[i+1]:
                     second = False
                     break
 
