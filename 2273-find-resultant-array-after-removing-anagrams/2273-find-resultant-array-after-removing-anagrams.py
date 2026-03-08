@@ -1,12 +1,9 @@
 class Solution:
     def removeAnagrams(self, words):
-        result = []
+        res = [words[0]]
 
-        for word in words:
-            if not result:
-                result.append(word)
-            else:
-                if sorted(word) != sorted(result[-1]):
-                    result.append(word)
+        for i in range(1, len(words)):
+            if sorted(words[i]) != sorted(words[i-1]):
+                res.append(words[i])
 
-        return result
+        return res
