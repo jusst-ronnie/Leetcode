@@ -65,6 +65,7 @@
 | [0097-interleaving-string](https://github.com/jusst-ronnie/Leetcode/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/jusst-ronnie/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/jusst-ronnie/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/jusst-ronnie/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/jusst-ronnie/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/jusst-ronnie/Leetcode/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/jusst-ronnie/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -95,6 +96,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jusst-ronnie/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/jusst-ronnie/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/jusst-ronnie/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/jusst-ronnie/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1488-avoid-flood-in-the-city](https://github.com/jusst-ronnie/Leetcode/tree/master/1488-avoid-flood-in-the-city) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/jusst-ronnie/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/jusst-ronnie/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
