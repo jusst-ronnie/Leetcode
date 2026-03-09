@@ -101,6 +101,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jusst-ronnie/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jusst-ronnie/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/jusst-ronnie/Leetcode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/jusst-ronnie/Leetcode/tree/master/0135-candy) |
 | [1488-avoid-flood-in-the-city](https://github.com/jusst-ronnie/Leetcode/tree/master/1488-avoid-flood-in-the-city) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/jusst-ronnie/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/jusst-ronnie/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -163,6 +164,7 @@
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jusst-ronnie/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/jusst-ronnie/Leetcode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/jusst-ronnie/Leetcode/tree/master/0135-candy) |
 | [1488-avoid-flood-in-the-city](https://github.com/jusst-ronnie/Leetcode/tree/master/1488-avoid-flood-in-the-city) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/jusst-ronnie/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/jusst-ronnie/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
