@@ -31,6 +31,7 @@
 | [0091-decode-ways](https://github.com/jusst-ronnie/Leetcode/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/jusst-ronnie/Leetcode/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/jusst-ronnie/Leetcode/tree/master/0097-interleaving-string) |
+| [0125-valid-palindrome](https://github.com/jusst-ronnie/Leetcode/tree/master/0125-valid-palindrome) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/jusst-ronnie/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/jusst-ronnie/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/jusst-ronnie/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -174,6 +175,7 @@
 | [0075-sort-colors](https://github.com/jusst-ronnie/Leetcode/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/jusst-ronnie/Leetcode/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/jusst-ronnie/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/jusst-ronnie/Leetcode/tree/master/0125-valid-palindrome) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/jusst-ronnie/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/jusst-ronnie/Leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Sorting
