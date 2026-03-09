@@ -65,6 +65,7 @@
 | [0097-interleaving-string](https://github.com/jusst-ronnie/Leetcode/tree/master/0097-interleaving-string) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/jusst-ronnie/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/jusst-ronnie/Leetcode/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/jusst-ronnie/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/jusst-ronnie/Leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/jusst-ronnie/Leetcode/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
 ## Memoization
@@ -172,6 +173,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/jusst-ronnie/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/jusst-ronnie/Leetcode/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/jusst-ronnie/Leetcode/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Counting
