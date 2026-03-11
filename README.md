@@ -355,4 +355,8 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/jusst-ronnie/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jusst-ronnie/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/jusst-ronnie/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/jusst-ronnie/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
