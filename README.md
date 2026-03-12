@@ -22,6 +22,7 @@
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/jusst-ronnie/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/jusst-ronnie/Leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/jusst-ronnie/Leetcode/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/jusst-ronnie/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## String
 |  |
 | ------- |
@@ -188,6 +189,7 @@
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/jusst-ronnie/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/jusst-ronnie/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/jusst-ronnie/Leetcode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/jusst-ronnie/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -369,4 +371,16 @@
 | [0185-department-top-three-salaries](https://github.com/jusst-ronnie/Leetcode/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/jusst-ronnie/Leetcode/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/jusst-ronnie/Leetcode/tree/master/0197-rising-temperature) |
+## Union-Find
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/jusst-ronnie/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Graph Theory
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/jusst-ronnie/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/jusst-ronnie/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->
