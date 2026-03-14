@@ -121,6 +121,7 @@
 | [0136-single-number](https://github.com/jusst-ronnie/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/jusst-ronnie/Leetcode/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/jusst-ronnie/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0217-contains-duplicate](https://github.com/jusst-ronnie/Leetcode/tree/master/0217-contains-duplicate) |
 | [1488-avoid-flood-in-the-city](https://github.com/jusst-ronnie/Leetcode/tree/master/1488-avoid-flood-in-the-city) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/jusst-ronnie/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/jusst-ronnie/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -149,6 +150,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/jusst-ronnie/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/jusst-ronnie/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/jusst-ronnie/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0217-contains-duplicate](https://github.com/jusst-ronnie/Leetcode/tree/master/0217-contains-duplicate) |
 | [1488-avoid-flood-in-the-city](https://github.com/jusst-ronnie/Leetcode/tree/master/1488-avoid-flood-in-the-city) |
 | [1980-find-unique-binary-string](https://github.com/jusst-ronnie/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/jusst-ronnie/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -221,6 +223,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/jusst-ronnie/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/jusst-ronnie/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/jusst-ronnie/Leetcode/tree/master/0217-contains-duplicate) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/jusst-ronnie/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/jusst-ronnie/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/jusst-ronnie/Leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
