@@ -122,6 +122,7 @@
 | [0137-single-number-ii](https://github.com/jusst-ronnie/Leetcode/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/jusst-ronnie/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/jusst-ronnie/Leetcode/tree/master/0217-contains-duplicate) |
+| [0218-the-skyline-problem](https://github.com/jusst-ronnie/Leetcode/tree/master/0218-the-skyline-problem) |
 | [1488-avoid-flood-in-the-city](https://github.com/jusst-ronnie/Leetcode/tree/master/1488-avoid-flood-in-the-city) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/jusst-ronnie/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/jusst-ronnie/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -204,6 +205,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/jusst-ronnie/Leetcode/tree/master/0218-the-skyline-problem) |
 | [1488-avoid-flood-in-the-city](https://github.com/jusst-ronnie/Leetcode/tree/master/1488-avoid-flood-in-the-city) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/jusst-ronnie/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Two Pointers
@@ -224,6 +226,7 @@
 | [0075-sort-colors](https://github.com/jusst-ronnie/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/jusst-ronnie/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/jusst-ronnie/Leetcode/tree/master/0217-contains-duplicate) |
+| [0218-the-skyline-problem](https://github.com/jusst-ronnie/Leetcode/tree/master/0218-the-skyline-problem) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/jusst-ronnie/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/jusst-ronnie/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/jusst-ronnie/Leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
@@ -376,6 +379,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/jusst-ronnie/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jusst-ronnie/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/jusst-ronnie/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0218-the-skyline-problem](https://github.com/jusst-ronnie/Leetcode/tree/master/0218-the-skyline-problem) |
 ## Database
 |  |
 | ------- |
@@ -408,4 +412,20 @@
 |  |
 | ------- |
 | [1117-building-h2o](https://github.com/jusst-ronnie/Leetcode/tree/master/1117-building-h2o) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/jusst-ronnie/Leetcode/tree/master/0218-the-skyline-problem) |
+## Segment Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/jusst-ronnie/Leetcode/tree/master/0218-the-skyline-problem) |
+## Sweep Line
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/jusst-ronnie/Leetcode/tree/master/0218-the-skyline-problem) |
+## Ordered Set
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/jusst-ronnie/Leetcode/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
