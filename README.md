@@ -19,6 +19,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/jusst-ronnie/Leetcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/jusst-ronnie/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/jusst-ronnie/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1488-avoid-flood-in-the-city](https://github.com/jusst-ronnie/Leetcode/tree/master/1488-avoid-flood-in-the-city) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/jusst-ronnie/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/jusst-ronnie/Leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
@@ -127,6 +128,7 @@
 | [0228-summary-ranges](https://github.com/jusst-ronnie/Leetcode/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/jusst-ronnie/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/jusst-ronnie/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/jusst-ronnie/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1488-avoid-flood-in-the-city](https://github.com/jusst-ronnie/Leetcode/tree/master/1488-avoid-flood-in-the-city) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/jusst-ronnie/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/jusst-ronnie/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -195,6 +197,7 @@
 | [0074-search-a-2d-matrix](https://github.com/jusst-ronnie/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/jusst-ronnie/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/jusst-ronnie/Leetcode/tree/master/0130-surrounded-regions) |
+| [0240-search-a-2d-matrix-ii](https://github.com/jusst-ronnie/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/jusst-ronnie/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/jusst-ronnie/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Greedy
@@ -390,6 +393,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jusst-ronnie/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/jusst-ronnie/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0218-the-skyline-problem](https://github.com/jusst-ronnie/Leetcode/tree/master/0218-the-skyline-problem) |
+| [0240-search-a-2d-matrix-ii](https://github.com/jusst-ronnie/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Database
 |  |
 | ------- |
