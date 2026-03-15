@@ -11,6 +11,7 @@
 | [0168-excel-sheet-column-title](https://github.com/jusst-ronnie/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0371-sum-of-two-integers](https://github.com/jusst-ronnie/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0372-super-pow](https://github.com/jusst-ronnie/Leetcode/tree/master/0372-super-pow) |
+| [1622-fancy-sequence](https://github.com/jusst-ronnie/Leetcode/tree/master/1622-fancy-sequence) |
 | [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/jusst-ronnie/Leetcode/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/jusst-ronnie/Leetcode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/jusst-ronnie/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -438,6 +439,7 @@
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/jusst-ronnie/Leetcode/tree/master/0218-the-skyline-problem) |
+| [1622-fancy-sequence](https://github.com/jusst-ronnie/Leetcode/tree/master/1622-fancy-sequence) |
 ## Sweep Line
 |  |
 | ------- |
@@ -446,4 +448,8 @@
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/jusst-ronnie/Leetcode/tree/master/0218-the-skyline-problem) |
+## Design
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/jusst-ronnie/Leetcode/tree/master/1622-fancy-sequence) |
 <!---LeetCode Topics End-->
