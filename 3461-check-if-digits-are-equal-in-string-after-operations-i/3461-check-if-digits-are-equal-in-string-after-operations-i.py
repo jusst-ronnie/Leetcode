@@ -3,9 +3,9 @@ class Solution:
         arr = [int(c) for c in s]
 
         while len(arr) > 2:
-            new = []
+            new_arr = []
             for i in range(len(arr) - 1):
-                new.append((arr[i] + arr[i+1]) % 10)
-            arr = new
+                new_arr.append((arr[i] + arr[i+1]) % 10)
+            arr = new_arr
 
         return arr[0] == arr[1]
