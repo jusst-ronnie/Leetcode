@@ -12,6 +12,7 @@
 | [0371-sum-of-two-integers](https://github.com/jusst-ronnie/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0372-super-pow](https://github.com/jusst-ronnie/Leetcode/tree/master/0372-super-pow) |
 | [1622-fancy-sequence](https://github.com/jusst-ronnie/Leetcode/tree/master/1622-fancy-sequence) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/jusst-ronnie/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/jusst-ronnie/Leetcode/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/jusst-ronnie/Leetcode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/jusst-ronnie/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -135,6 +136,7 @@
 | [1488-avoid-flood-in-the-city](https://github.com/jusst-ronnie/Leetcode/tree/master/1488-avoid-flood-in-the-city) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/jusst-ronnie/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/jusst-ronnie/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/jusst-ronnie/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1980-find-unique-binary-string](https://github.com/jusst-ronnie/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/jusst-ronnie/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/jusst-ronnie/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -204,6 +206,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/jusst-ronnie/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/jusst-ronnie/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/jusst-ronnie/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/jusst-ronnie/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Greedy
 |  |
 | ------- |
@@ -221,6 +224,7 @@
 | ------- |
 | [0218-the-skyline-problem](https://github.com/jusst-ronnie/Leetcode/tree/master/0218-the-skyline-problem) |
 | [1488-avoid-flood-in-the-city](https://github.com/jusst-ronnie/Leetcode/tree/master/1488-avoid-flood-in-the-city) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/jusst-ronnie/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/jusst-ronnie/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Two Pointers
 |  |
@@ -242,6 +246,7 @@
 | [0217-contains-duplicate](https://github.com/jusst-ronnie/Leetcode/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/jusst-ronnie/Leetcode/tree/master/0218-the-skyline-problem) |
 | [0229-majority-element-ii](https://github.com/jusst-ronnie/Leetcode/tree/master/0229-majority-element-ii) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/jusst-ronnie/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/jusst-ronnie/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/jusst-ronnie/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/jusst-ronnie/Leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
@@ -249,6 +254,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/jusst-ronnie/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/jusst-ronnie/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/jusst-ronnie/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/jusst-ronnie/Leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/jusst-ronnie/Leetcode/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
