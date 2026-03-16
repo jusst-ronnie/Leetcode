@@ -166,6 +166,7 @@
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/jusst-ronnie/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/jusst-ronnie/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/jusst-ronnie/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/jusst-ronnie/Leetcode/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/jusst-ronnie/Leetcode/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/jusst-ronnie/Leetcode/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
 | [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/jusst-ronnie/Leetcode/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
@@ -197,6 +198,7 @@
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/jusst-ronnie/Leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/jusst-ronnie/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/jusst-ronnie/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/jusst-ronnie/Leetcode/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## Combinatorics
 |  |
 | ------- |
@@ -223,6 +225,7 @@
 | [0219-contains-duplicate-ii](https://github.com/jusst-ronnie/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/jusst-ronnie/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2401-longest-nice-subarray](https://github.com/jusst-ronnie/Leetcode/tree/master/2401-longest-nice-subarray) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/jusst-ronnie/Leetcode/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/jusst-ronnie/Leetcode/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Matrix
 |  |
@@ -258,6 +261,7 @@
 | [1488-avoid-flood-in-the-city](https://github.com/jusst-ronnie/Leetcode/tree/master/1488-avoid-flood-in-the-city) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/jusst-ronnie/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/jusst-ronnie/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/jusst-ronnie/Leetcode/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## Two Pointers
 |  |
 | ------- |
