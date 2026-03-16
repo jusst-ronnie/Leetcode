@@ -71,6 +71,7 @@
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/jusst-ronnie/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/jusst-ronnie/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2043-simple-bank-system](https://github.com/jusst-ronnie/Leetcode/tree/master/2043-simple-bank-system) |
+| [3354-make-array-elements-equal-to-zero](https://github.com/jusst-ronnie/Leetcode/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/jusst-ronnie/Leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/jusst-ronnie/Leetcode/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Dynamic Programming
@@ -159,6 +160,7 @@
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/jusst-ronnie/Leetcode/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/jusst-ronnie/Leetcode/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
 | [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/jusst-ronnie/Leetcode/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
+| [3354-make-array-elements-equal-to-zero](https://github.com/jusst-ronnie/Leetcode/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/jusst-ronnie/Leetcode/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
 | [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/jusst-ronnie/Leetcode/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/jusst-ronnie/Leetcode/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
@@ -277,6 +279,7 @@
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/jusst-ronnie/Leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/jusst-ronnie/Leetcode/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/jusst-ronnie/Leetcode/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3354-make-array-elements-equal-to-zero](https://github.com/jusst-ronnie/Leetcode/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/jusst-ronnie/Leetcode/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Counting
 |  |
