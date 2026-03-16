@@ -46,6 +46,7 @@
 | [0168-excel-sheet-column-title](https://github.com/jusst-ronnie/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/jusst-ronnie/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/jusst-ronnie/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/jusst-ronnie/Leetcode/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/jusst-ronnie/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/jusst-ronnie/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/jusst-ronnie/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -345,6 +346,7 @@
 | [0130-surrounded-regions](https://github.com/jusst-ronnie/Leetcode/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jusst-ronnie/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jusst-ronnie/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/jusst-ronnie/Leetcode/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 ## Binary Tree
 |  |
 | ------- |
@@ -394,6 +396,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/jusst-ronnie/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/jusst-ronnie/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0130-surrounded-regions](https://github.com/jusst-ronnie/Leetcode/tree/master/0130-surrounded-regions) |
+| [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/jusst-ronnie/Leetcode/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 ## Number Theory
 |  |
 | ------- |
@@ -461,4 +464,8 @@
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/jusst-ronnie/Leetcode/tree/master/1622-fancy-sequence) |
+## Enumeration
+|  |
+| ------- |
+| [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/jusst-ronnie/Leetcode/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 <!---LeetCode Topics End-->
