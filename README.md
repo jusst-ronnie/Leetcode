@@ -117,6 +117,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/jusst-ronnie/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jusst-ronnie/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jusst-ronnie/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/jusst-ronnie/Leetcode/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Array
 |  |
 | ------- |
@@ -176,6 +177,7 @@
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/jusst-ronnie/Leetcode/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
 | [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/jusst-ronnie/Leetcode/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/jusst-ronnie/Leetcode/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/jusst-ronnie/Leetcode/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3607-power-grid-maintenance](https://github.com/jusst-ronnie/Leetcode/tree/master/3607-power-grid-maintenance) |
 ## Hash Table
 |  |
@@ -202,6 +204,7 @@
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/jusst-ronnie/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/jusst-ronnie/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/jusst-ronnie/Leetcode/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/jusst-ronnie/Leetcode/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3607-power-grid-maintenance](https://github.com/jusst-ronnie/Leetcode/tree/master/3607-power-grid-maintenance) |
 ## Combinatorics
 |  |
@@ -257,6 +260,7 @@
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/jusst-ronnie/Leetcode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/jusst-ronnie/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/jusst-ronnie/Leetcode/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/jusst-ronnie/Leetcode/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/jusst-ronnie/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Heap (Priority Queue)
 |  |
@@ -331,6 +335,7 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/jusst-ronnie/Leetcode/tree/master/0085-maximal-rectangle) |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/jusst-ronnie/Leetcode/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Linked List
 |  |
 | ------- |
