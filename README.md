@@ -12,6 +12,7 @@
 | [0371-sum-of-two-integers](https://github.com/jusst-ronnie/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0372-super-pow](https://github.com/jusst-ronnie/Leetcode/tree/master/0372-super-pow) |
 | [1622-fancy-sequence](https://github.com/jusst-ronnie/Leetcode/tree/master/1622-fancy-sequence) |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/jusst-ronnie/Leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/jusst-ronnie/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/jusst-ronnie/Leetcode/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/jusst-ronnie/Leetcode/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
