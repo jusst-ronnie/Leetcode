@@ -68,6 +68,7 @@
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/jusst-ronnie/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/jusst-ronnie/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2043-simple-bank-system](https://github.com/jusst-ronnie/Leetcode/tree/master/2043-simple-bank-system) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/jusst-ronnie/Leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/jusst-ronnie/Leetcode/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Dynamic Programming
@@ -143,6 +144,7 @@
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/jusst-ronnie/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1980-find-unique-binary-string](https://github.com/jusst-ronnie/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/jusst-ronnie/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2043-simple-bank-system](https://github.com/jusst-ronnie/Leetcode/tree/master/2043-simple-bank-system) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/jusst-ronnie/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/jusst-ronnie/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2399-check-distances-between-same-letters](https://github.com/jusst-ronnie/Leetcode/tree/master/2399-check-distances-between-same-letters) |
@@ -173,6 +175,7 @@
 | [0229-majority-element-ii](https://github.com/jusst-ronnie/Leetcode/tree/master/0229-majority-element-ii) |
 | [1488-avoid-flood-in-the-city](https://github.com/jusst-ronnie/Leetcode/tree/master/1488-avoid-flood-in-the-city) |
 | [1980-find-unique-binary-string](https://github.com/jusst-ronnie/Leetcode/tree/master/1980-find-unique-binary-string) |
+| [2043-simple-bank-system](https://github.com/jusst-ronnie/Leetcode/tree/master/2043-simple-bank-system) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/jusst-ronnie/Leetcode/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/jusst-ronnie/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2399-check-distances-between-same-letters](https://github.com/jusst-ronnie/Leetcode/tree/master/2399-check-distances-between-same-letters) |
@@ -474,6 +477,7 @@
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/jusst-ronnie/Leetcode/tree/master/1622-fancy-sequence) |
+| [2043-simple-bank-system](https://github.com/jusst-ronnie/Leetcode/tree/master/2043-simple-bank-system) |
 ## Enumeration
 |  |
 | ------- |
