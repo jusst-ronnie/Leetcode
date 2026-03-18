@@ -41,6 +41,7 @@
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/jusst-ronnie/Leetcode/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/jusst-ronnie/Leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/jusst-ronnie/Leetcode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/jusst-ronnie/Leetcode/tree/master/0076-minimum-window-substring) |
@@ -85,6 +86,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/jusst-ronnie/Leetcode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/jusst-ronnie/Leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/jusst-ronnie/Leetcode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/jusst-ronnie/Leetcode/tree/master/0085-maximal-rectangle) |
@@ -342,6 +344,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/jusst-ronnie/Leetcode/tree/master/0022-generate-parentheses) |
 | [0077-combinations](https://github.com/jusst-ronnie/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/jusst-ronnie/Leetcode/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/jusst-ronnie/Leetcode/tree/master/0089-gray-code) |
