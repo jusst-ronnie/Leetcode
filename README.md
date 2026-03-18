@@ -197,6 +197,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/jusst-ronnie/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/jusst-ronnie/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/jusst-ronnie/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/jusst-ronnie/Leetcode/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/jusst-ronnie/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/jusst-ronnie/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/jusst-ronnie/Leetcode/tree/master/0229-majority-element-ii) |
@@ -360,6 +361,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/jusst-ronnie/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/jusst-ronnie/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/jusst-ronnie/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/jusst-ronnie/Leetcode/tree/master/0146-lru-cache) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/jusst-ronnie/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Tree
 |  |
@@ -531,6 +533,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/jusst-ronnie/Leetcode/tree/master/0146-lru-cache) |
 | [1622-fancy-sequence](https://github.com/jusst-ronnie/Leetcode/tree/master/1622-fancy-sequence) |
 | [2043-simple-bank-system](https://github.com/jusst-ronnie/Leetcode/tree/master/2043-simple-bank-system) |
 ## Enumeration
@@ -538,4 +541,8 @@
 | ------- |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/jusst-ronnie/Leetcode/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/jusst-ronnie/Leetcode/tree/master/2048-next-greater-numerically-balanced-number) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/jusst-ronnie/Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
