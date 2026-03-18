@@ -421,6 +421,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/jusst-ronnie/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jusst-ronnie/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/jusst-ronnie/Leetcode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/jusst-ronnie/Leetcode/tree/master/0207-course-schedule) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/jusst-ronnie/Leetcode/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [3607-power-grid-maintenance](https://github.com/jusst-ronnie/Leetcode/tree/master/3607-power-grid-maintenance) |
 ## Binary Tree
@@ -473,6 +474,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/jusst-ronnie/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0130-surrounded-regions](https://github.com/jusst-ronnie/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/jusst-ronnie/Leetcode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/jusst-ronnie/Leetcode/tree/master/0207-course-schedule) |
 | [0994-rotting-oranges](https://github.com/jusst-ronnie/Leetcode/tree/master/0994-rotting-oranges) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/jusst-ronnie/Leetcode/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [3607-power-grid-maintenance](https://github.com/jusst-ronnie/Leetcode/tree/master/3607-power-grid-maintenance) |
@@ -516,6 +518,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/jusst-ronnie/Leetcode/tree/master/0207-course-schedule) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/jusst-ronnie/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3607-power-grid-maintenance](https://github.com/jusst-ronnie/Leetcode/tree/master/3607-power-grid-maintenance) |
 ## Minimum Spanning Tree
@@ -560,4 +563,8 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/jusst-ronnie/Leetcode/tree/master/0146-lru-cache) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/jusst-ronnie/Leetcode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
