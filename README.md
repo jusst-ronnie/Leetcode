@@ -65,6 +65,7 @@
 | [0242-valid-anagram](https://github.com/jusst-ronnie/Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/jusst-ronnie/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/jusst-ronnie/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/jusst-ronnie/Leetcode/tree/master/0389-find-the-difference) |
 | [0474-ones-and-zeroes](https://github.com/jusst-ronnie/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/jusst-ronnie/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/jusst-ronnie/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -233,6 +234,7 @@
 | [0242-valid-anagram](https://github.com/jusst-ronnie/Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/jusst-ronnie/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/jusst-ronnie/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/jusst-ronnie/Leetcode/tree/master/0389-find-the-difference) |
 | [1488-avoid-flood-in-the-city](https://github.com/jusst-ronnie/Leetcode/tree/master/1488-avoid-flood-in-the-city) |
 | [1980-find-unique-binary-string](https://github.com/jusst-ronnie/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2043-simple-bank-system](https://github.com/jusst-ronnie/Leetcode/tree/master/2043-simple-bank-system) |
@@ -261,6 +263,7 @@
 | [0136-single-number](https://github.com/jusst-ronnie/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/jusst-ronnie/Leetcode/tree/master/0137-single-number-ii) |
 | [0371-sum-of-two-integers](https://github.com/jusst-ronnie/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [0389-find-the-difference](https://github.com/jusst-ronnie/Leetcode/tree/master/0389-find-the-difference) |
 | [1009-complement-of-base-10-integer](https://github.com/jusst-ronnie/Leetcode/tree/master/1009-complement-of-base-10-integer) |
 | [2401-longest-nice-subarray](https://github.com/jusst-ronnie/Leetcode/tree/master/2401-longest-nice-subarray) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/jusst-ronnie/Leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
@@ -340,6 +343,7 @@
 | [0218-the-skyline-problem](https://github.com/jusst-ronnie/Leetcode/tree/master/0218-the-skyline-problem) |
 | [0229-majority-element-ii](https://github.com/jusst-ronnie/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/jusst-ronnie/Leetcode/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/jusst-ronnie/Leetcode/tree/master/0389-find-the-difference) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/jusst-ronnie/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/jusst-ronnie/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/jusst-ronnie/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
