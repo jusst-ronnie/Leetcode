@@ -9,6 +9,7 @@
 | [0089-gray-code](https://github.com/jusst-ronnie/Leetcode/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/jusst-ronnie/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/jusst-ronnie/Leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0227-basic-calculator-ii](https://github.com/jusst-ronnie/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0371-sum-of-two-integers](https://github.com/jusst-ronnie/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0372-super-pow](https://github.com/jusst-ronnie/Leetcode/tree/master/0372-super-pow) |
 | [1622-fancy-sequence](https://github.com/jusst-ronnie/Leetcode/tree/master/1622-fancy-sequence) |
@@ -58,6 +59,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/jusst-ronnie/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/jusst-ronnie/Leetcode/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/jusst-ronnie/Leetcode/tree/master/0214-shortest-palindrome) |
+| [0227-basic-calculator-ii](https://github.com/jusst-ronnie/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0474-ones-and-zeroes](https://github.com/jusst-ronnie/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/jusst-ronnie/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/jusst-ronnie/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -128,6 +130,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/jusst-ronnie/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jusst-ronnie/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jusst-ronnie/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0227-basic-calculator-ii](https://github.com/jusst-ronnie/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/jusst-ronnie/Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/jusst-ronnie/Leetcode/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Array
