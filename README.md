@@ -53,6 +53,7 @@
 | [0125-valid-palindrome](https://github.com/jusst-ronnie/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/jusst-ronnie/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/jusst-ronnie/Leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0205-isomorphic-strings](https://github.com/jusst-ronnie/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0474-ones-and-zeroes](https://github.com/jusst-ronnie/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/jusst-ronnie/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/jusst-ronnie/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -208,6 +209,7 @@
 | [0141-linked-list-cycle](https://github.com/jusst-ronnie/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/jusst-ronnie/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/jusst-ronnie/Leetcode/tree/master/0146-lru-cache) |
+| [0205-isomorphic-strings](https://github.com/jusst-ronnie/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/jusst-ronnie/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/jusst-ronnie/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/jusst-ronnie/Leetcode/tree/master/0229-majority-element-ii) |
