@@ -63,6 +63,7 @@
 | [0227-basic-calculator-ii](https://github.com/jusst-ronnie/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/jusst-ronnie/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/jusst-ronnie/Leetcode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/jusst-ronnie/Leetcode/tree/master/0383-ransom-note) |
 | [0474-ones-and-zeroes](https://github.com/jusst-ronnie/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/jusst-ronnie/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/jusst-ronnie/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -229,6 +230,7 @@
 | [0219-contains-duplicate-ii](https://github.com/jusst-ronnie/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/jusst-ronnie/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/jusst-ronnie/Leetcode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/jusst-ronnie/Leetcode/tree/master/0383-ransom-note) |
 | [1488-avoid-flood-in-the-city](https://github.com/jusst-ronnie/Leetcode/tree/master/1488-avoid-flood-in-the-city) |
 | [1980-find-unique-binary-string](https://github.com/jusst-ronnie/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2043-simple-bank-system](https://github.com/jusst-ronnie/Leetcode/tree/master/2043-simple-bank-system) |
@@ -360,6 +362,7 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/jusst-ronnie/Leetcode/tree/master/0229-majority-element-ii) |
+| [0383-ransom-note](https://github.com/jusst-ronnie/Leetcode/tree/master/0383-ransom-note) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/jusst-ronnie/Leetcode/tree/master/2048-next-greater-numerically-balanced-number) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/jusst-ronnie/Leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Bitmask
