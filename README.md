@@ -180,6 +180,7 @@
 | [0229-majority-element-ii](https://github.com/jusst-ronnie/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/jusst-ronnie/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jusst-ronnie/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/jusst-ronnie/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0474-ones-and-zeroes](https://github.com/jusst-ronnie/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0994-rotting-oranges](https://github.com/jusst-ronnie/Leetcode/tree/master/0994-rotting-oranges) |
 | [1488-avoid-flood-in-the-city](https://github.com/jusst-ronnie/Leetcode/tree/master/1488-avoid-flood-in-the-city) |
@@ -241,6 +242,7 @@
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/jusst-ronnie/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0398-random-pick-index](https://github.com/jusst-ronnie/Leetcode/tree/master/0398-random-pick-index) |
 | [0409-longest-palindrome](https://github.com/jusst-ronnie/Leetcode/tree/master/0409-longest-palindrome) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/jusst-ronnie/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1488-avoid-flood-in-the-city](https://github.com/jusst-ronnie/Leetcode/tree/master/1488-avoid-flood-in-the-city) |
 | [1980-find-unique-binary-string](https://github.com/jusst-ronnie/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2043-simple-bank-system](https://github.com/jusst-ronnie/Leetcode/tree/master/2043-simple-bank-system) |
@@ -270,6 +272,7 @@
 | [0137-single-number-ii](https://github.com/jusst-ronnie/Leetcode/tree/master/0137-single-number-ii) |
 | [0371-sum-of-two-integers](https://github.com/jusst-ronnie/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/jusst-ronnie/Leetcode/tree/master/0389-find-the-difference) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/jusst-ronnie/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1009-complement-of-base-10-integer](https://github.com/jusst-ronnie/Leetcode/tree/master/1009-complement-of-base-10-integer) |
 | [2401-longest-nice-subarray](https://github.com/jusst-ronnie/Leetcode/tree/master/2401-longest-nice-subarray) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/jusst-ronnie/Leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
@@ -622,6 +625,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/jusst-ronnie/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/jusst-ronnie/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/jusst-ronnie/Leetcode/tree/master/0212-word-search-ii) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/jusst-ronnie/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Rolling Hash
 |  |
 | ------- |
