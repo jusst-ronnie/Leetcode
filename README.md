@@ -10,6 +10,7 @@
 | [0096-unique-binary-search-trees](https://github.com/jusst-ronnie/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/jusst-ronnie/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0227-basic-calculator-ii](https://github.com/jusst-ronnie/Leetcode/tree/master/0227-basic-calculator-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/jusst-ronnie/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0371-sum-of-two-integers](https://github.com/jusst-ronnie/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0372-super-pow](https://github.com/jusst-ronnie/Leetcode/tree/master/0372-super-pow) |
 | [1622-fancy-sequence](https://github.com/jusst-ronnie/Leetcode/tree/master/1622-fancy-sequence) |
@@ -60,6 +61,7 @@
 | [0212-word-search-ii](https://github.com/jusst-ronnie/Leetcode/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/jusst-ronnie/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/jusst-ronnie/Leetcode/tree/master/0227-basic-calculator-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/jusst-ronnie/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0474-ones-and-zeroes](https://github.com/jusst-ronnie/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/jusst-ronnie/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/jusst-ronnie/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -78,6 +80,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/jusst-ronnie/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/jusst-ronnie/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Simulation
 |  |
@@ -109,6 +112,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jusst-ronnie/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/jusst-ronnie/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/jusst-ronnie/Leetcode/tree/master/0198-house-robber) |
+| [0241-different-ways-to-add-parentheses](https://github.com/jusst-ronnie/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0474-ones-and-zeroes](https://github.com/jusst-ronnie/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/jusst-ronnie/Leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/jusst-ronnie/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -121,6 +125,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/jusst-ronnie/Leetcode/tree/master/0070-climbing-stairs) |
+| [0241-different-ways-to-add-parentheses](https://github.com/jusst-ronnie/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Stack
 |  |
 | ------- |
