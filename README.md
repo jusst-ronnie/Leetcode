@@ -57,6 +57,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/jusst-ronnie/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/jusst-ronnie/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/jusst-ronnie/Leetcode/tree/master/0212-word-search-ii) |
+| [0214-shortest-palindrome](https://github.com/jusst-ronnie/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0474-ones-and-zeroes](https://github.com/jusst-ronnie/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/jusst-ronnie/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/jusst-ronnie/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -591,4 +592,16 @@
 | [0208-implement-trie-prefix-tree](https://github.com/jusst-ronnie/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/jusst-ronnie/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/jusst-ronnie/Leetcode/tree/master/0212-word-search-ii) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/jusst-ronnie/Leetcode/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/jusst-ronnie/Leetcode/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/jusst-ronnie/Leetcode/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
