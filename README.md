@@ -219,6 +219,7 @@
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/jusst-ronnie/Leetcode/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/jusst-ronnie/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3607-power-grid-maintenance](https://github.com/jusst-ronnie/Leetcode/tree/master/3607-power-grid-maintenance) |
+| [3643-flip-square-submatrix-vertically](https://github.com/jusst-ronnie/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Hash Table
 |  |
 | ------- |
@@ -308,6 +309,7 @@
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/jusst-ronnie/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/jusst-ronnie/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/jusst-ronnie/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3643-flip-square-submatrix-vertically](https://github.com/jusst-ronnie/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Greedy
 |  |
 | ------- |
@@ -346,6 +348,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/jusst-ronnie/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/jusst-ronnie/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/jusst-ronnie/Leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
+| [3643-flip-square-submatrix-vertically](https://github.com/jusst-ronnie/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Sorting
 |  |
 | ------- |
