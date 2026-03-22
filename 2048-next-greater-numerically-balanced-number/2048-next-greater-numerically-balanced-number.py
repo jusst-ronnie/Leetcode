@@ -1,16 +1,23 @@
-from collections import Counter
-
 class Solution:
     def nextBeautifulNumber(self, n: int) -> int:
-        def balanced(x):
-            c = Counter(str(x))
-            for d in c:
-                if c[d] != int(d):
+        def is_balanced(num: int) -> bool:
+            # Convert to string to count digit occurrences
+            s = str(num)
+            # If '0' is present, it can't be balanced (0 must occur 0 times)
+            if '0' in s:
+                return False
+            
+            from collections import Counter
+            counts = Counter(s)
+            
+            for digit_char, count in counts.items():
+                if int(digit_char) != count:
                     return False
             return True
-        
-        num = n + 1
+
+        # Increment from n + 1 until we find a match
+        curr = n + 1
         while True:
-            if balanced(num):
-                return num
-            num += 1
+            if is_balanced(curr):
+                return curr
+            curr += 1
