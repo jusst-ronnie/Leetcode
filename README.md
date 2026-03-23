@@ -73,6 +73,7 @@
 | [0474-ones-and-zeroes](https://github.com/jusst-ronnie/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0500-keyboard-row](https://github.com/jusst-ronnie/Leetcode/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/jusst-ronnie/Leetcode/tree/master/0504-base-7) |
+| [0514-freedom-trail](https://github.com/jusst-ronnie/Leetcode/tree/master/0514-freedom-trail) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/jusst-ronnie/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/jusst-ronnie/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/jusst-ronnie/Leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
@@ -124,6 +125,7 @@
 | [0198-house-robber](https://github.com/jusst-ronnie/Leetcode/tree/master/0198-house-robber) |
 | [0241-different-ways-to-add-parentheses](https://github.com/jusst-ronnie/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0474-ones-and-zeroes](https://github.com/jusst-ronnie/Leetcode/tree/master/0474-ones-and-zeroes) |
+| [0514-freedom-trail](https://github.com/jusst-ronnie/Leetcode/tree/master/0514-freedom-trail) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/jusst-ronnie/Leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/jusst-ronnie/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/jusst-ronnie/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -487,6 +489,7 @@
 | [0200-number-of-islands](https://github.com/jusst-ronnie/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/jusst-ronnie/Leetcode/tree/master/0207-course-schedule) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/jusst-ronnie/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0514-freedom-trail](https://github.com/jusst-ronnie/Leetcode/tree/master/0514-freedom-trail) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/jusst-ronnie/Leetcode/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [3607-power-grid-maintenance](https://github.com/jusst-ronnie/Leetcode/tree/master/3607-power-grid-maintenance) |
 ## Binary Tree
@@ -540,6 +543,7 @@
 | [0130-surrounded-regions](https://github.com/jusst-ronnie/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/jusst-ronnie/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/jusst-ronnie/Leetcode/tree/master/0207-course-schedule) |
+| [0514-freedom-trail](https://github.com/jusst-ronnie/Leetcode/tree/master/0514-freedom-trail) |
 | [0994-rotting-oranges](https://github.com/jusst-ronnie/Leetcode/tree/master/0994-rotting-oranges) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/jusst-ronnie/Leetcode/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [3607-power-grid-maintenance](https://github.com/jusst-ronnie/Leetcode/tree/master/3607-power-grid-maintenance) |
