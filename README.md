@@ -15,6 +15,7 @@
 | [0372-super-pow](https://github.com/jusst-ronnie/Leetcode/tree/master/0372-super-pow) |
 | [0398-random-pick-index](https://github.com/jusst-ronnie/Leetcode/tree/master/0398-random-pick-index) |
 | [0504-base-7](https://github.com/jusst-ronnie/Leetcode/tree/master/0504-base-7) |
+| [0883-projection-area-of-3d-shapes](https://github.com/jusst-ronnie/Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [1622-fancy-sequence](https://github.com/jusst-ronnie/Leetcode/tree/master/1622-fancy-sequence) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/jusst-ronnie/Leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/jusst-ronnie/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -194,6 +195,7 @@
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/jusst-ronnie/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0474-ones-and-zeroes](https://github.com/jusst-ronnie/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0500-keyboard-row](https://github.com/jusst-ronnie/Leetcode/tree/master/0500-keyboard-row) |
+| [0883-projection-area-of-3d-shapes](https://github.com/jusst-ronnie/Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0994-rotting-oranges](https://github.com/jusst-ronnie/Leetcode/tree/master/0994-rotting-oranges) |
 | [1488-avoid-flood-in-the-city](https://github.com/jusst-ronnie/Leetcode/tree/master/1488-avoid-flood-in-the-city) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/jusst-ronnie/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -319,6 +321,7 @@
 | [0200-number-of-islands](https://github.com/jusst-ronnie/Leetcode/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/jusst-ronnie/Leetcode/tree/master/0212-word-search-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jusst-ronnie/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0883-projection-area-of-3d-shapes](https://github.com/jusst-ronnie/Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0994-rotting-oranges](https://github.com/jusst-ronnie/Leetcode/tree/master/0994-rotting-oranges) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/jusst-ronnie/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/jusst-ronnie/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -690,4 +693,8 @@
 |  |
 | ------- |
 | [0398-random-pick-index](https://github.com/jusst-ronnie/Leetcode/tree/master/0398-random-pick-index) |
+## Geometry
+|  |
+| ------- |
+| [0883-projection-area-of-3d-shapes](https://github.com/jusst-ronnie/Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 <!---LeetCode Topics End-->
