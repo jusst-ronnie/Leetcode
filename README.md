@@ -15,6 +15,7 @@
 | [0372-super-pow](https://github.com/jusst-ronnie/Leetcode/tree/master/0372-super-pow) |
 | [0398-random-pick-index](https://github.com/jusst-ronnie/Leetcode/tree/master/0398-random-pick-index) |
 | [0504-base-7](https://github.com/jusst-ronnie/Leetcode/tree/master/0504-base-7) |
+| [0812-largest-triangle-area](https://github.com/jusst-ronnie/Leetcode/tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/jusst-ronnie/Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [1622-fancy-sequence](https://github.com/jusst-ronnie/Leetcode/tree/master/1622-fancy-sequence) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/jusst-ronnie/Leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
@@ -195,6 +196,7 @@
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/jusst-ronnie/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0474-ones-and-zeroes](https://github.com/jusst-ronnie/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0500-keyboard-row](https://github.com/jusst-ronnie/Leetcode/tree/master/0500-keyboard-row) |
+| [0812-largest-triangle-area](https://github.com/jusst-ronnie/Leetcode/tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/jusst-ronnie/Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0994-rotting-oranges](https://github.com/jusst-ronnie/Leetcode/tree/master/0994-rotting-oranges) |
 | [1488-avoid-flood-in-the-city](https://github.com/jusst-ronnie/Leetcode/tree/master/1488-avoid-flood-in-the-city) |
@@ -696,5 +698,6 @@
 ## Geometry
 |  |
 | ------- |
+| [0812-largest-triangle-area](https://github.com/jusst-ronnie/Leetcode/tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/jusst-ronnie/Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 <!---LeetCode Topics End-->
