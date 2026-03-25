@@ -227,6 +227,7 @@
 | [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/jusst-ronnie/Leetcode/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/jusst-ronnie/Leetcode/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/jusst-ronnie/Leetcode/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
+| [3546-equal-sum-grid-partition-i](https://github.com/jusst-ronnie/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/jusst-ronnie/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3607-power-grid-maintenance](https://github.com/jusst-ronnie/Leetcode/tree/master/3607-power-grid-maintenance) |
 | [3643-flip-square-submatrix-vertically](https://github.com/jusst-ronnie/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
@@ -322,6 +323,7 @@
 | [2906-construct-product-matrix](https://github.com/jusst-ronnie/Leetcode/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/jusst-ronnie/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/jusst-ronnie/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3546-equal-sum-grid-partition-i](https://github.com/jusst-ronnie/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/jusst-ronnie/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/jusst-ronnie/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Greedy
@@ -396,6 +398,7 @@
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/jusst-ronnie/Leetcode/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/jusst-ronnie/Leetcode/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/jusst-ronnie/Leetcode/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3546-equal-sum-grid-partition-i](https://github.com/jusst-ronnie/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 ## Counting
 |  |
 | ------- |
@@ -634,6 +637,7 @@
 | ------- |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/jusst-ronnie/Leetcode/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/jusst-ronnie/Leetcode/tree/master/2048-next-greater-numerically-balanced-number) |
+| [3546-equal-sum-grid-partition-i](https://github.com/jusst-ronnie/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 ## Doubly-Linked List
 |  |
 | ------- |
