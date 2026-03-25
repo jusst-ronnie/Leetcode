@@ -262,6 +262,7 @@
 | [0398-random-pick-index](https://github.com/jusst-ronnie/Leetcode/tree/master/0398-random-pick-index) |
 | [0409-longest-palindrome](https://github.com/jusst-ronnie/Leetcode/tree/master/0409-longest-palindrome) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/jusst-ronnie/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0460-lfu-cache](https://github.com/jusst-ronnie/Leetcode/tree/master/0460-lfu-cache) |
 | [0500-keyboard-row](https://github.com/jusst-ronnie/Leetcode/tree/master/0500-keyboard-row) |
 | [1488-avoid-flood-in-the-city](https://github.com/jusst-ronnie/Leetcode/tree/master/1488-avoid-flood-in-the-city) |
 | [1980-find-unique-binary-string](https://github.com/jusst-ronnie/Leetcode/tree/master/1980-find-unique-binary-string) |
@@ -454,6 +455,7 @@
 | [0141-linked-list-cycle](https://github.com/jusst-ronnie/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/jusst-ronnie/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/jusst-ronnie/Leetcode/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/jusst-ronnie/Leetcode/tree/master/0460-lfu-cache) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/jusst-ronnie/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Tree
 |  |
@@ -639,6 +641,7 @@
 | [0146-lru-cache](https://github.com/jusst-ronnie/Leetcode/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/jusst-ronnie/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/jusst-ronnie/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0460-lfu-cache](https://github.com/jusst-ronnie/Leetcode/tree/master/0460-lfu-cache) |
 | [1622-fancy-sequence](https://github.com/jusst-ronnie/Leetcode/tree/master/1622-fancy-sequence) |
 | [2043-simple-bank-system](https://github.com/jusst-ronnie/Leetcode/tree/master/2043-simple-bank-system) |
 ## Enumeration
@@ -651,6 +654,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/jusst-ronnie/Leetcode/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/jusst-ronnie/Leetcode/tree/master/0460-lfu-cache) |
 ## Topological Sort
 |  |
 | ------- |
