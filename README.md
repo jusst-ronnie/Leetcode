@@ -81,6 +81,7 @@
 | [0500-keyboard-row](https://github.com/jusst-ronnie/Leetcode/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/jusst-ronnie/Leetcode/tree/master/0504-base-7) |
 | [0514-freedom-trail](https://github.com/jusst-ronnie/Leetcode/tree/master/0514-freedom-trail) |
+| [0756-pyramid-transition-matrix](https://github.com/jusst-ronnie/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/jusst-ronnie/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/jusst-ronnie/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/jusst-ronnie/Leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
@@ -281,6 +282,7 @@
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/jusst-ronnie/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0460-lfu-cache](https://github.com/jusst-ronnie/Leetcode/tree/master/0460-lfu-cache) |
 | [0500-keyboard-row](https://github.com/jusst-ronnie/Leetcode/tree/master/0500-keyboard-row) |
+| [0756-pyramid-transition-matrix](https://github.com/jusst-ronnie/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [1488-avoid-flood-in-the-city](https://github.com/jusst-ronnie/Leetcode/tree/master/1488-avoid-flood-in-the-city) |
 | [1980-find-unique-binary-string](https://github.com/jusst-ronnie/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2043-simple-bank-system](https://github.com/jusst-ronnie/Leetcode/tree/master/2043-simple-bank-system) |
@@ -313,6 +315,7 @@
 | [0371-sum-of-two-integers](https://github.com/jusst-ronnie/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/jusst-ronnie/Leetcode/tree/master/0389-find-the-difference) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/jusst-ronnie/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0756-pyramid-transition-matrix](https://github.com/jusst-ronnie/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [1009-complement-of-base-10-integer](https://github.com/jusst-ronnie/Leetcode/tree/master/1009-complement-of-base-10-integer) |
 | [2401-longest-nice-subarray](https://github.com/jusst-ronnie/Leetcode/tree/master/2401-longest-nice-subarray) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/jusst-ronnie/Leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
@@ -458,6 +461,7 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/jusst-ronnie/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/jusst-ronnie/Leetcode/tree/master/0113-path-sum-ii) |
 | [0212-word-search-ii](https://github.com/jusst-ronnie/Leetcode/tree/master/0212-word-search-ii) |
+| [0756-pyramid-transition-matrix](https://github.com/jusst-ronnie/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/jusst-ronnie/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/jusst-ronnie/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/jusst-ronnie/Leetcode/tree/master/2048-next-greater-numerically-balanced-number) |
