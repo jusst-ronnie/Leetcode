@@ -218,6 +218,7 @@
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/jusst-ronnie/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/jusst-ronnie/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/jusst-ronnie/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1895-largest-magic-square](https://github.com/jusst-ronnie/Leetcode/tree/master/1895-largest-magic-square) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/jusst-ronnie/Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1980-find-unique-binary-string](https://github.com/jusst-ronnie/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/jusst-ronnie/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -349,6 +350,7 @@
 | [1727-largest-submatrix-with-rearrangements](https://github.com/jusst-ronnie/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/jusst-ronnie/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/jusst-ronnie/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1895-largest-magic-square](https://github.com/jusst-ronnie/Leetcode/tree/master/1895-largest-magic-square) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/jusst-ronnie/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/jusst-ronnie/Leetcode/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/jusst-ronnie/Leetcode/tree/master/2573-find-the-string-with-lcp) |
@@ -425,6 +427,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/jusst-ronnie/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/jusst-ronnie/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1895-largest-magic-square](https://github.com/jusst-ronnie/Leetcode/tree/master/1895-largest-magic-square) |
 | [2906-construct-product-matrix](https://github.com/jusst-ronnie/Leetcode/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/jusst-ronnie/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/jusst-ronnie/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
