@@ -253,6 +253,7 @@
 | [3546-equal-sum-grid-partition-i](https://github.com/jusst-ronnie/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/jusst-ronnie/Leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/jusst-ronnie/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3583-count-special-triplets](https://github.com/jusst-ronnie/Leetcode/tree/master/3583-count-special-triplets) |
 | [3607-power-grid-maintenance](https://github.com/jusst-ronnie/Leetcode/tree/master/3607-power-grid-maintenance) |
 | [3643-flip-square-submatrix-vertically](https://github.com/jusst-ronnie/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Hash Table
@@ -298,6 +299,7 @@
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/jusst-ronnie/Leetcode/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/jusst-ronnie/Leetcode/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/jusst-ronnie/Leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3583-count-special-triplets](https://github.com/jusst-ronnie/Leetcode/tree/master/3583-count-special-triplets) |
 | [3607-power-grid-maintenance](https://github.com/jusst-ronnie/Leetcode/tree/master/3607-power-grid-maintenance) |
 ## Combinatorics
 |  |
@@ -448,6 +450,7 @@
 | [2048-next-greater-numerically-balanced-number](https://github.com/jusst-ronnie/Leetcode/tree/master/2048-next-greater-numerically-balanced-number) |
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/jusst-ronnie/Leetcode/tree/master/3144-minimum-substring-partition-of-equal-character-frequency) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/jusst-ronnie/Leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
+| [3583-count-special-triplets](https://github.com/jusst-ronnie/Leetcode/tree/master/3583-count-special-triplets) |
 ## Bitmask
 |  |
 | ------- |
