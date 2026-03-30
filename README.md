@@ -97,6 +97,7 @@
 | [2399-check-distances-between-same-letters](https://github.com/jusst-ronnie/Leetcode/tree/master/2399-check-distances-between-same-letters) |
 | [2573-find-the-string-with-lcp](https://github.com/jusst-ronnie/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/jusst-ronnie/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/jusst-ronnie/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/jusst-ronnie/Leetcode/tree/master/3144-minimum-substring-partition-of-equal-character-frequency) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/jusst-ronnie/Leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Recursion
@@ -293,6 +294,7 @@
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/jusst-ronnie/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2399-check-distances-between-same-letters](https://github.com/jusst-ronnie/Leetcode/tree/master/2399-check-distances-between-same-letters) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/jusst-ronnie/Leetcode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/jusst-ronnie/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/jusst-ronnie/Leetcode/tree/master/3144-minimum-substring-partition-of-equal-character-frequency) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/jusst-ronnie/Leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/jusst-ronnie/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -421,6 +423,7 @@
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/jusst-ronnie/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/jusst-ronnie/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/jusst-ronnie/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/jusst-ronnie/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/jusst-ronnie/Leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/jusst-ronnie/Leetcode/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/jusst-ronnie/Leetcode/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
