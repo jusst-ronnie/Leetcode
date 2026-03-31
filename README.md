@@ -100,6 +100,7 @@
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/jusst-ronnie/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/jusst-ronnie/Leetcode/tree/master/3144-minimum-substring-partition-of-equal-character-frequency) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/jusst-ronnie/Leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/jusst-ronnie/Leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Recursion
 |  |
 | ------- |
@@ -383,6 +384,7 @@
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/jusst-ronnie/Leetcode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/jusst-ronnie/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/jusst-ronnie/Leetcode/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/jusst-ronnie/Leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/jusst-ronnie/Leetcode/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/jusst-ronnie/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Heap (Priority Queue)
@@ -717,6 +719,7 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/jusst-ronnie/Leetcode/tree/master/0214-shortest-palindrome) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/jusst-ronnie/Leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Hash Function
 |  |
 | ------- |
