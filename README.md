@@ -112,6 +112,7 @@
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/jusst-ronnie/Leetcode/tree/master/0657-robot-return-to-origin) |
+| [0874-walking-robot-simulation](https://github.com/jusst-ronnie/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/jusst-ronnie/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/jusst-ronnie/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2043-simple-bank-system](https://github.com/jusst-ronnie/Leetcode/tree/master/2043-simple-bank-system) |
@@ -215,6 +216,7 @@
 | [0474-ones-and-zeroes](https://github.com/jusst-ronnie/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0500-keyboard-row](https://github.com/jusst-ronnie/Leetcode/tree/master/0500-keyboard-row) |
 | [0812-largest-triangle-area](https://github.com/jusst-ronnie/Leetcode/tree/master/0812-largest-triangle-area) |
+| [0874-walking-robot-simulation](https://github.com/jusst-ronnie/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [0883-projection-area-of-3d-shapes](https://github.com/jusst-ronnie/Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0994-rotting-oranges](https://github.com/jusst-ronnie/Leetcode/tree/master/0994-rotting-oranges) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/jusst-ronnie/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -295,6 +297,7 @@
 | [0460-lfu-cache](https://github.com/jusst-ronnie/Leetcode/tree/master/0460-lfu-cache) |
 | [0500-keyboard-row](https://github.com/jusst-ronnie/Leetcode/tree/master/0500-keyboard-row) |
 | [0756-pyramid-transition-matrix](https://github.com/jusst-ronnie/Leetcode/tree/master/0756-pyramid-transition-matrix) |
+| [0874-walking-robot-simulation](https://github.com/jusst-ronnie/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [1488-avoid-flood-in-the-city](https://github.com/jusst-ronnie/Leetcode/tree/master/1488-avoid-flood-in-the-city) |
 | [1980-find-unique-binary-string](https://github.com/jusst-ronnie/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2043-simple-bank-system](https://github.com/jusst-ronnie/Leetcode/tree/master/2043-simple-bank-system) |
