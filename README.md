@@ -116,6 +116,7 @@
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/jusst-ronnie/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/jusst-ronnie/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2043-simple-bank-system](https://github.com/jusst-ronnie/Leetcode/tree/master/2043-simple-bank-system) |
+| [2069-walking-robot-simulation-ii](https://github.com/jusst-ronnie/Leetcode/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/jusst-ronnie/Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2169-count-operations-to-obtain-zero](https://github.com/jusst-ronnie/Leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/jusst-ronnie/Leetcode/tree/master/2257-count-unguarded-cells-in-the-grid) |
@@ -702,6 +703,7 @@
 | [0460-lfu-cache](https://github.com/jusst-ronnie/Leetcode/tree/master/0460-lfu-cache) |
 | [1622-fancy-sequence](https://github.com/jusst-ronnie/Leetcode/tree/master/1622-fancy-sequence) |
 | [2043-simple-bank-system](https://github.com/jusst-ronnie/Leetcode/tree/master/2043-simple-bank-system) |
+| [2069-walking-robot-simulation-ii](https://github.com/jusst-ronnie/Leetcode/tree/master/2069-walking-robot-simulation-ii) |
 ## Enumeration
 |  |
 | ------- |
