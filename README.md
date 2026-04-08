@@ -539,6 +539,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/jusst-ronnie/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jusst-ronnie/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jusst-ronnie/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0700-search-in-a-binary-search-tree](https://github.com/jusst-ronnie/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -591,6 +592,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/jusst-ronnie/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jusst-ronnie/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jusst-ronnie/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0700-search-in-a-binary-search-tree](https://github.com/jusst-ronnie/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -600,6 +602,7 @@
 | [0099-recover-binary-search-tree](https://github.com/jusst-ronnie/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jusst-ronnie/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/jusst-ronnie/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/jusst-ronnie/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
