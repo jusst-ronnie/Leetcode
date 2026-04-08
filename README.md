@@ -158,6 +158,7 @@
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/jusst-ronnie/Leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/jusst-ronnie/Leetcode/tree/master/3144-minimum-substring-partition-of-equal-character-frequency) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/jusst-ronnie/Leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
+| [3388-count-beautiful-splits-in-an-array](https://github.com/jusst-ronnie/Leetcode/tree/master/3388-count-beautiful-splits-in-an-array) |
 | [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/jusst-ronnie/Leetcode/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
 ## Memoization
 |  |
@@ -260,6 +261,7 @@
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/jusst-ronnie/Leetcode/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
 | [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/jusst-ronnie/Leetcode/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/jusst-ronnie/Leetcode/tree/master/3354-make-array-elements-equal-to-zero) |
+| [3388-count-beautiful-splits-in-an-array](https://github.com/jusst-ronnie/Leetcode/tree/master/3388-count-beautiful-splits-in-an-array) |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/jusst-ronnie/Leetcode/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
 | [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/jusst-ronnie/Leetcode/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/jusst-ronnie/Leetcode/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
