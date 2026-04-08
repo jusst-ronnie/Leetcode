@@ -125,6 +125,7 @@
 | [3354-make-array-elements-equal-to-zero](https://github.com/jusst-ronnie/Leetcode/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/jusst-ronnie/Leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/jusst-ronnie/Leetcode/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/jusst-ronnie/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -269,6 +270,7 @@
 | [3583-count-special-triplets](https://github.com/jusst-ronnie/Leetcode/tree/master/3583-count-special-triplets) |
 | [3607-power-grid-maintenance](https://github.com/jusst-ronnie/Leetcode/tree/master/3607-power-grid-maintenance) |
 | [3643-flip-square-submatrix-vertically](https://github.com/jusst-ronnie/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/jusst-ronnie/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -633,6 +635,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/jusst-ronnie/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0372-super-pow](https://github.com/jusst-ronnie/Leetcode/tree/master/0372-super-pow) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/jusst-ronnie/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/jusst-ronnie/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Database
 |  |
 | ------- |
