@@ -113,6 +113,7 @@
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/jusst-ronnie/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/jusst-ronnie/Leetcode/tree/master/0874-walking-robot-simulation) |
+| [1441-build-an-array-with-stack-operations](https://github.com/jusst-ronnie/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/jusst-ronnie/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/jusst-ronnie/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2043-simple-bank-system](https://github.com/jusst-ronnie/Leetcode/tree/master/2043-simple-bank-system) |
@@ -175,6 +176,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/jusst-ronnie/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jusst-ronnie/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0227-basic-calculator-ii](https://github.com/jusst-ronnie/Leetcode/tree/master/0227-basic-calculator-ii) |
+| [1441-build-an-array-with-stack-operations](https://github.com/jusst-ronnie/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/jusst-ronnie/Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2751-robot-collisions](https://github.com/jusst-ronnie/Leetcode/tree/master/2751-robot-collisions) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/jusst-ronnie/Leetcode/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
@@ -223,6 +225,7 @@
 | [0883-projection-area-of-3d-shapes](https://github.com/jusst-ronnie/Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0994-rotting-oranges](https://github.com/jusst-ronnie/Leetcode/tree/master/0994-rotting-oranges) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/jusst-ronnie/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1441-build-an-array-with-stack-operations](https://github.com/jusst-ronnie/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1488-avoid-flood-in-the-city](https://github.com/jusst-ronnie/Leetcode/tree/master/1488-avoid-flood-in-the-city) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/jusst-ronnie/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/jusst-ronnie/Leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
