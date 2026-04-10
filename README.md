@@ -276,6 +276,7 @@
 | [3607-power-grid-maintenance](https://github.com/jusst-ronnie/Leetcode/tree/master/3607-power-grid-maintenance) |
 | [3643-flip-square-submatrix-vertically](https://github.com/jusst-ronnie/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/jusst-ronnie/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/jusst-ronnie/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -323,6 +324,7 @@
 | [3548-equal-sum-grid-partition-ii](https://github.com/jusst-ronnie/Leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3583-count-special-triplets](https://github.com/jusst-ronnie/Leetcode/tree/master/3583-count-special-triplets) |
 | [3607-power-grid-maintenance](https://github.com/jusst-ronnie/Leetcode/tree/master/3607-power-grid-maintenance) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/jusst-ronnie/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Combinatorics
 |  |
 | ------- |
