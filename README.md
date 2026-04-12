@@ -84,6 +84,7 @@
 | [0514-freedom-trail](https://github.com/jusst-ronnie/Leetcode/tree/master/0514-freedom-trail) |
 | [0657-robot-return-to-origin](https://github.com/jusst-ronnie/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0756-pyramid-transition-matrix](https://github.com/jusst-ronnie/Leetcode/tree/master/0756-pyramid-transition-matrix) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/jusst-ronnie/Leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/jusst-ronnie/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/jusst-ronnie/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/jusst-ronnie/Leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
@@ -152,6 +153,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/jusst-ronnie/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0474-ones-and-zeroes](https://github.com/jusst-ronnie/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0514-freedom-trail](https://github.com/jusst-ronnie/Leetcode/tree/master/0514-freedom-trail) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/jusst-ronnie/Leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/jusst-ronnie/Leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/jusst-ronnie/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/jusst-ronnie/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
