@@ -34,6 +34,7 @@
 | [3370-smallest-number-with-all-set-bits](https://github.com/jusst-ronnie/Leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/jusst-ronnie/Leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/jusst-ronnie/Leetcode/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
+| [3783-mirror-distance-of-an-integer](https://github.com/jusst-ronnie/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Binary Search
 |  |
 | ------- |
