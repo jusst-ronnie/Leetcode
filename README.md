@@ -265,6 +265,7 @@
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/jusst-ronnie/Leetcode/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2751-robot-collisions](https://github.com/jusst-ronnie/Leetcode/tree/master/2751-robot-collisions) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/jusst-ronnie/Leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2784-check-if-array-is-good](https://github.com/jusst-ronnie/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2906-construct-product-matrix](https://github.com/jusst-ronnie/Leetcode/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/jusst-ronnie/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/jusst-ronnie/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -331,6 +332,7 @@
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/jusst-ronnie/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2399-check-distances-between-same-letters](https://github.com/jusst-ronnie/Leetcode/tree/master/2399-check-distances-between-same-letters) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/jusst-ronnie/Leetcode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
+| [2784-check-if-array-is-good](https://github.com/jusst-ronnie/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/jusst-ronnie/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/jusst-ronnie/Leetcode/tree/master/3144-minimum-substring-partition-of-equal-character-frequency) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/jusst-ronnie/Leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
@@ -469,6 +471,7 @@
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/jusst-ronnie/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2463-minimum-total-distance-traveled](https://github.com/jusst-ronnie/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/jusst-ronnie/Leetcode/tree/master/2751-robot-collisions) |
+| [2784-check-if-array-is-good](https://github.com/jusst-ronnie/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/jusst-ronnie/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/jusst-ronnie/Leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/jusst-ronnie/Leetcode/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
