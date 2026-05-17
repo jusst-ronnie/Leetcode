@@ -468,6 +468,7 @@
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/jusst-ronnie/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/jusst-ronnie/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/jusst-ronnie/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2092-find-all-people-with-secret](https://github.com/jusst-ronnie/Leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/jusst-ronnie/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/jusst-ronnie/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2463-minimum-total-distance-traveled](https://github.com/jusst-ronnie/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
@@ -601,6 +602,7 @@
 | [0514-freedom-trail](https://github.com/jusst-ronnie/Leetcode/tree/master/0514-freedom-trail) |
 | [1306-jump-game-iii](https://github.com/jusst-ronnie/Leetcode/tree/master/1306-jump-game-iii) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/jusst-ronnie/Leetcode/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
+| [2092-find-all-people-with-secret](https://github.com/jusst-ronnie/Leetcode/tree/master/2092-find-all-people-with-secret) |
 | [3607-power-grid-maintenance](https://github.com/jusst-ronnie/Leetcode/tree/master/3607-power-grid-maintenance) |
 ## Binary Tree
 |  |
@@ -659,6 +661,7 @@
 | [0994-rotting-oranges](https://github.com/jusst-ronnie/Leetcode/tree/master/0994-rotting-oranges) |
 | [1306-jump-game-iii](https://github.com/jusst-ronnie/Leetcode/tree/master/1306-jump-game-iii) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/jusst-ronnie/Leetcode/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
+| [2092-find-all-people-with-secret](https://github.com/jusst-ronnie/Leetcode/tree/master/2092-find-all-people-with-secret) |
 | [3607-power-grid-maintenance](https://github.com/jusst-ronnie/Leetcode/tree/master/3607-power-grid-maintenance) |
 ## Number Theory
 |  |
@@ -699,6 +702,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/jusst-ronnie/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/jusst-ronnie/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/jusst-ronnie/Leetcode/tree/master/0200-number-of-islands) |
+| [2092-find-all-people-with-secret](https://github.com/jusst-ronnie/Leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2573-find-the-string-with-lcp](https://github.com/jusst-ronnie/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/jusst-ronnie/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3607-power-grid-maintenance](https://github.com/jusst-ronnie/Leetcode/tree/master/3607-power-grid-maintenance) |
@@ -706,6 +710,7 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/jusst-ronnie/Leetcode/tree/master/0207-course-schedule) |
+| [2092-find-all-people-with-secret](https://github.com/jusst-ronnie/Leetcode/tree/master/2092-find-all-people-with-secret) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/jusst-ronnie/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3607-power-grid-maintenance](https://github.com/jusst-ronnie/Leetcode/tree/master/3607-power-grid-maintenance) |
 ## Minimum Spanning Tree
