@@ -85,6 +85,7 @@
 | [0514-freedom-trail](https://github.com/jusst-ronnie/Leetcode/tree/master/0514-freedom-trail) |
 | [0657-robot-return-to-origin](https://github.com/jusst-ronnie/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0756-pyramid-transition-matrix](https://github.com/jusst-ronnie/Leetcode/tree/master/0756-pyramid-transition-matrix) |
+| [0944-delete-columns-to-make-sorted](https://github.com/jusst-ronnie/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/jusst-ronnie/Leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/jusst-ronnie/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/jusst-ronnie/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -232,6 +233,7 @@
 | [0812-largest-triangle-area](https://github.com/jusst-ronnie/Leetcode/tree/master/0812-largest-triangle-area) |
 | [0874-walking-robot-simulation](https://github.com/jusst-ronnie/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [0883-projection-area-of-3d-shapes](https://github.com/jusst-ronnie/Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
+| [0944-delete-columns-to-make-sorted](https://github.com/jusst-ronnie/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0994-rotting-oranges](https://github.com/jusst-ronnie/Leetcode/tree/master/0994-rotting-oranges) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/jusst-ronnie/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1306-jump-game-iii](https://github.com/jusst-ronnie/Leetcode/tree/master/1306-jump-game-iii) |
